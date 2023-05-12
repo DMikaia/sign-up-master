@@ -25,7 +25,7 @@ Users should be able to:
 
 ![Mobile Design](Screenshot/Mobile-design.png)
 
-![Active States Design](Screenshot/Active-states.png)
+![Active States Design](Screenshot/Active-states-version.png)
 
 ### Links
 
