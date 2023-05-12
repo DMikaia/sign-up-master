@@ -23,9 +23,9 @@ Users should be able to:
 
 ![Desktop Design and Preview](Screenshot/Desktop-design.png)
 
-![Mobile Design](Screenshot/Mobile-design.png)
-
 ![Active States Design](Screenshot/Active-states-version.png)
+
+![Mobile Design](Screenshot/Mobile-design.png)
 
 ### Links
 
